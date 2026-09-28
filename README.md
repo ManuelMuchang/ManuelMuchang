@@ -1,11 +1,11 @@
 # 👋 Olá, eu sou Manuel Muchanga
 
 **Técnico de Informática** | Aspirante a Desenvolvedor Backend & Analista de Dados  
-📍 Moçambique | 🎯 À procura de estágio ou primeira oportunidade em TI
+Moçambique |  À procura de oportonidade de emprego 
 
 ---
 
-## 🌟 Sobre Mim
+##  Sobre Mim
 
 Sou um profissional de TI com paixão por transformar dados em decisões e códigos em soluções. Tenho experiência prática em desenvolvimento web, administração de bases de dados e análise de sistemas. Busco constantemente novos desafios que exijam pensamento lógico, trabalho em equipa e foco em resultados.
 
@@ -40,9 +40,9 @@ Sou um profissional de TI com paixão por transformar dados em decisões e códi
 
 ---
 
-## 📌 Projetos em Destaque
+## Projetos em Destaque
 
-🔹 **TaskMate** – Aplicação web para gestão de tarefas (HTML, CSS, JS)  
+ **TaskMate** – Aplicação web para gestão de tarefas (HTML, CSS, JS)  
 [![Repositório](https://img.shields.io/badge/GitHub-View-181717?logo=github)](https://github.com/ManuelMuchang/TaskMate)
 
 *Mais projetos em breve...*
@@ -53,4 +53,4 @@ Sou um profissional de TI com paixão por transformar dados em decisões e códi
 - 💼 **LinkedIn:** [linkedin.com/in/manuel-muchanga-0108a5394](https://www.linkedin.com/in/manuel-muchanga-0108a5394)
 - 🐙 **GitHub:** [github.com/ManuelMuchang](https://github.com/ManuelMuchang)
 
-> 💬 *"Transformar desafios em código e dados em valor."* – Manuel Muchanga
+> *"Transformar desafios em código e dados em valor."* – Manuel Muchanga
